@@ -1,3 +1,4 @@
+Couldnt add a .pkl file but have mentioned it in the code of Meetings11.ipynb.
 # Meetings KRA Predictive Model API
 
 This backend contains a predictive model for categorizing meeting descriptions and a Flask API to serve predictions to a frontend.
@@ -48,3 +49,4 @@ The API will be available at `http://localhost:5000`.
 
 - Ensure the pickle file `Meetings11.pkl` is present in the `backend` directory before running the API.
 - CORS is enabled to allow frontend applications to access the API.
+
